@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://shoppify-ci.herokuapp.com/index.php';
+$config['base_url'] = 'https://shoppify-ci.herokuapp.com/index.php';
 // input your ip instead of "-----------" dha
 
 /*
